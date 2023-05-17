@@ -1,0 +1,13 @@
+// const [count, setCount] = React.useState(0);
+
+//   // function increaseCount() {
+//   //   setCount(count+1);
+//   // }
+
+//   function increaseCount() {
+//     setCount(prevCount => prevCount + 1);
+//   }
+
+//   function decreaseCount() {
+//     setCount(prevCount => prevCount - 1);
+//   }

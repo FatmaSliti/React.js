@@ -1,0 +1,32 @@
+import React from 'react';
+import ReactDOM from 'react-dom';
+import './index.css';
+import memeData from './memeData';
+// import App from './App';
+let url;
+function App() {
+    function handleClick() {
+        const memes = memeData.data.memes;
+        const randomIndex = Math.floor(Math.random() * memes.length);
+        url = memes[randomIndex].url;
+        console.log(url);
+    }
+
+    // function handleHover() {
+    //     console.log("mouseOver")
+    // }
+
+    return (
+        <amin>
+            <p>{url}</p>
+            <div className='essay'>
+                {/* <img className='imgessay' onMouseOver={handleHover} src='fatoma.jpg' alt='pic'/> */}
+                <img className='imgessay' src='fatoma.jpg' alt='pic' />
+                <button onClick={handleClick} className='input-essay'>Click me</button>
+            </div>
+        </amin>
+    )
+}
+
+ReactDOM.render(<App />, document.getElementById("root"));
+

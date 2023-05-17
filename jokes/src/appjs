@@ -1,0 +1,15 @@
+// const colors = ["red", "blue", "yellow", "green", "violet", "pink"];
+const colors = [
+<h3>red</h3>,
+<h3>blue</h3>,
+<h3>green</h3>,
+<h3>yellow</h3>,
+<h3>violet</h3>,
+<h3>pink</h3>,
+]
+
+return (
+<div>
+    {colors}
+</div>
+);

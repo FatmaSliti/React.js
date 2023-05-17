@@ -1,0 +1,25 @@
+/* .box {
+  border: solid black ;
+  width: 100px;
+  height: auto;
+  text-align: center;
+  margin: 0 4px 4px 0;
+  display: inline-block;
+  border-radius: 5px;
+} */
+
+* {
+  box-sizing: border-box;
+}
+
+.box {
+  height: 100px;
+  width: 100px;
+  border: 1px solid black;
+  display: inline-block;
+  margin-right: 4px
+}
+
+div {
+  display: inline;
+}

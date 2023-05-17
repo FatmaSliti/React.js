@@ -1,0 +1,78 @@
+* {
+  margin: 10px 0 0;
+}
+
+body {
+  color: white;
+  font-family: 'Roboto', sans-serif;
+  background-color: rgb(63, 60, 60);
+}
+
+.wrapper {
+  width: 300px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border-radius: 20px;
+  background-color: rgb(43, 42, 42);
+  overflow: hidden;
+}
+
+.info {
+  text-align: center;
+  margin: 0;
+}
+
+img {
+  width:300px;
+  height: 250px;
+  margin: 0;
+}
+
+.text {
+  text-align: center;
+}
+
+.main-wrapper {
+  padding: 0 20px ;
+}
+
+.footer {
+  background-color: rgb(30, 33, 33);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50px;
+}
+
+.footer i {
+  margin: 0 10px;
+}
+
+button {
+  padding: 8px;
+  border-radius: 5px;
+  border: none;
+  margin: 0 8px;
+  width: 100px;
+}
+.linkedin {
+  background-color: rgb(0, 187, 255) ;
+}
+
+.email::before {
+  content: "\f0e0";
+  font-family: "Font Awesome 5 Free";
+  font-weight: 900;
+  font-size: 16px;
+  margin-right: 5px;
+}
+
+.linkedin::before {
+  content: "\f0e0";
+  font-family: "Font Af08cwesome 5 Free";
+  font-weight: 900;
+  font-size: 16px;
+  margin-right: 5px;
+}
