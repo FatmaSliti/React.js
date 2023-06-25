@@ -1,6 +1,6 @@
 # React Mini Projects
 
-This repository contains 8 mini projects built with React. Each project is a standalone application showcasing a specific concept or functionality.
+This repository contains 12 mini projects built with React. Each project is a standalone application showcasing a specific concept or functionality.
 
 ## Projects
 
@@ -80,6 +80,12 @@ This repository contains 8 mini projects built with React. Each project is a sta
 - React
 - HTML
 - CSS
+
+## Getting Started
+
+To quickly get started with these mini projects, run the following commands in your terminal:
+
+git clone [copy the url] && cd [name of the react-mini-project] && npm install && npm start
 
   ## Contact
 
