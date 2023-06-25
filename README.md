@@ -12,9 +12,9 @@ This repository contains 8 mini projects built with React. Each project is a sta
 
    ![Project 1 Screenshot](reactimages/factorslightmode.png)
 
-3. **Project 2**: Travel journal.
+3. **Project 2**:airbnb (named thirdproject).
 
-   ![Project 2 Screenshot](reactimages/traveljournal.png)
+   ![Project 2 Screenshot](reactimages/thirdprojectairbnb.png)
 
 4. **Project 3**: Description of Project 3.
 
