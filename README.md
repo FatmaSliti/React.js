@@ -53,7 +53,7 @@ This repository contains 8 mini projects built with React. Each project is a sta
    
    ![Project 8 Screenshot](reactimages/addthings2.png)
 
- 11**Project 9**: squares.
+ 11**Project 9**: squares: initial state
 
    ![Project 9 Screenshot](reactimages/square.png)
    
