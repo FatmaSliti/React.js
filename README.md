@@ -24,17 +24,22 @@ This repository contains 8 mini projects built with React. Each project is a sta
 
    ![Project 4 Screenshot](reactimages/thirdprojectairbnb.png)
 
-6. **Project 5**: counter.
+5. **Project 5**: counter.
 
    ![Project 5 Screenshot](reactimages/counter.png)
 
-7. **Project 6**: ternary.
+6. **Project 6**: stateobjects.
 
-   ![Project 6 Screenshot](reactimages/ternary.png)
+   ![Project 6 Screenshot](reactimages/stateobjects.png)
 
    After clicking on the star :
 
-    ![Project 6 Screenshot](reactimages/stateobjectsafter.png)
+    ![Project 7 Screenshot](reactimages/stateobjectsafter.png)
+
+
+8. **Project 6**: ternary.
+
+   ![Project 6 Screenshot](reactimages/ternary.png)
 
 9. **Project 7**: jokes.
 
