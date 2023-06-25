@@ -12,35 +12,60 @@ This repository contains 8 mini projects built with React. Each project is a sta
 
    ![Project 1 Screenshot](reactimages/factorslightmode.png)
 
-3. **Project 2**:airbnb (named thirdproject).
+2. **Project 2**: card
+   
+   ![Project 2 Screenshot](reactimages/card.png)
 
-   ![Project 2 Screenshot](reactimages/thirdprojectairbnb.png)
+3. **Project 3**: contact
 
-4. **Project 3**: Description of Project 3.
+   ![Project 3 Screenshot](reactimages/aaa.png)
+   
+4. **Project 4**: airbnb (named thirdproject).
 
-   ![Project 3 Screenshot](project3.png)
+   ![Project 4 Screenshot](reactimages/thirdprojectairbnb.png)
 
-5. **Project 4**: Description of Project 4.
+6. **Project 5**: counter.
 
-   ![Project 4 Screenshot](project4.png)
+   ![Project 5 Screenshot](reactimages/counter.png)
 
-6. **Project 5**: Description of Project 5.
+7. **Project 6**: ternary.
 
-   ![Project 5 Screenshot](project5.png)
+   ![Project 6 Screenshot](reactimages/ternary.png)
 
-7. **Project 6**: Description of Project 6.
+   After clicking on the star :
 
-   ![Project 6 Screenshot](project6.png)
+    ![Project 6 Screenshot](reactimages/stateobjectsafter.png)
 
-8. **Project 7**: Description of Project 7.
+9. **Project 7**: jokes.
 
-   ![Project 7 Screenshot](project7.png)
+   ![Project 7 Screenshot](reactimages/jokes.png)
 
-9. **Project 8**: Description of Project 8.
+10. **Project 8**: addthings.
 
-   ![Project 8 Screenshot](project8.png)
+   ![Project 8 Screenshot](reactimages/addthings.png)
+   After clicking on the add button:
+   ![Project 8 Screenshot](reactimages/addthings2.png)
 
-## Getting Started
+11. **Project 9**: sign up page.
 
-1. Clone the repository:
+   ![Project 9 Screenshot](reactimages/signup.png)
 
+12. **Project 10**: useeffect.
+
+   ![Project 10 Screenshot](reactimages/useeffect1.png)
+   After incrementing the counter
+   ![Project 10 Screenshot](reactimages/useeffect2.png)
+
+13. **Project 11**: meme generator.
+
+   ![Project 11 Screenshot](reactimages/memegenerator.png)
+
+## Technologies Used
+
+- React
+- HTML
+- CSS
+
+  ## Contact
+
+For any questions or feedback, please contact [fatmasliti289@gmail.com](mailto:fatmasliti@gmail.com).
