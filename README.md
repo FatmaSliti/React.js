@@ -48,20 +48,30 @@ This repository contains 8 mini projects built with React. Each project is a sta
 10. **Project 8**: addthings.
 
    ![Project 8 Screenshot](reactimages/addthings.png)
+   
    After clicking on the add button:
+   
    ![Project 8 Screenshot](reactimages/addthings2.png)
 
-11. **Project 9**: sign up page.
+ 11**Project 9**: squares.
+
+   ![Project 9 Screenshot](reactimages/square.png)
+   
+   After clicking on the squares:
+   
+   ![Project 9 Screenshot](reactimages/squaresafter.png)
+
+12. **Project 10**: sign up page.
 
    ![Project 9 Screenshot](reactimages/signup.png)
 
-12. **Project 10**: useeffect.
+12. **Project 11**: useeffect.
 
    ![Project 10 Screenshot](reactimages/useeffect1.png)
    After incrementing the counter
    ![Project 10 Screenshot](reactimages/useeffect2.png)
 
-13. **Project 11**: meme generator.
+13. **Project 12**: meme generator.
 
    ![Project 11 Screenshot](reactimages/memegenerator.png)
 
